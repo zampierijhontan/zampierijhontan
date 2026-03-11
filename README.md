@@ -1,27 +1,38 @@
-- 👋 Olá! Meu nome é Jhonatan Zampieri
-- 🧑🏻‍💻 Apaixonado em programação 
-- 📚 Atualmente aprendendo Python e Django 
+# 👋 Olá, eu sou o Jhonatan
 
+💻 Estudante de programação  
+📚 Aprendendo Java e desenvolvimento de software  
+🚀 Em busca de evoluir como desenvolvedor
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/jho_zampieri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:zampierijhonatan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/jhonatan-zampieri-b2779726b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<div>
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zampierijhonatan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+## 📊 Estatísticas do GitHub
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zampierijhonatan&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak de commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zampierijhonatan&theme=tokyonight)
+
+---
+
+## 🛠 Tecnologias que estou aprendendo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌐 Redes sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
