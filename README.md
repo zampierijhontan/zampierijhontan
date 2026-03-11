@@ -1,23 +1,20 @@
-# 👋 Olá, eu sou o Jhonatan
+# 👋 Hello, my name is Jhonatan
 
-💻 Estudante de programação  
-📚 Aprendendo Java e desenvolvimento de software  
-🚀 Em busca de evoluir como desenvolvedor
+💻 Programming student  
+📚 Pursuing a Bachelor's degree in Software Engineering  
+🚀 Working to grow as a developer
 
 ---
-
-## 📊 Estatísticas do GitHub
 
 ![aaaa stats](https://github-readme-stats.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight)
 
 ---
 
-## Tecnologias que estou aprendendo
+## Currently Learning
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-          
-          
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+</p>
