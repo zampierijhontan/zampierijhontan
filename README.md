@@ -6,8 +6,7 @@
 
 ---
 
-![aaaa stats](https://github-readme-stats.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight)](https://github.com/zampierijhonatan)
 ---
 
 ## Currently Learning
