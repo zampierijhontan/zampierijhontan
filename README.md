@@ -7,7 +7,7 @@
 ---
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight" width="50%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight" width="53%"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zampierijhonatan&layout=compact&theme=tokyonight" width="38%"/>
 </div>
