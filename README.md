@@ -1,8 +1,8 @@
-# 👋 Hello, my name is Jhonatan
+# 👋 Olá, meu nome é Jhonatan
 
-💻 Programming student  
-📚 Pursuing a Bachelor's degree in Software Engineering  
-🚀 Working to grow as a developer
+💻 Estudante de programação  
+📚 Cursando Bacharelado em Engenharia de Software 
+🚀 Evoluindo constantemente como desenvolvedor Backend
 
 ---
 
