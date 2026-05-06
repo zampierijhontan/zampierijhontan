@@ -1,7 +1,7 @@
 # 👋 Olá, meu nome é Jhonatan
 
 💻 Estudante de programação  
-📚 Cursando Bacharelado em Engenharia de Software 
+📚 Cursando Bacharelado em Engenharia de Software  
 🚀 Evoluindo constantemente como desenvolvedor Backend
 
 ---
@@ -9,7 +9,7 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zampierijhonatan&show_icons=true&theme=tokyonight" width="53%"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zampierijhonatan&layout=compact&theme=tokyonight" width="38%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zampierijhonatan&layout=compact&theme=tokyonight" width="44.5%" />
 </div>
 
 ---
